@@ -24,5 +24,5 @@ function Change() {
     changeOwned %= Penny;
   }
 }
-// DONE
+// DONEE
 Change();
